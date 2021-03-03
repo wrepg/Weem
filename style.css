@@ -1,0 +1,15 @@
+.welcome {
+  background-color: #9dbbf8;
+  color: #1b1b1b;
+  height: 760px;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero {
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: inherit;
+}
